@@ -1,0 +1,2 @@
+# ajari
+Pemula
